@@ -21,4 +21,23 @@ O switch foi configurado para realizar a segmentação da rede por meio das VLAN
 
 O switch foi conectado a um firewall FortiGate, responsável pelo roteamento entre as VLANs (Inter-VLAN Routing) e pelo acesso à Internet. Essa configuração permite controlar a comunicação entre os diferentes segmentos da rede por meio de políticas de segurança, além de fornecer conectividade externa para os dispositivos autorizados.
 
+#--------------------------------------------------------------------------------------------------------------------------#
+<img src="https://github.com/RAFAELSILVASALES/FortiGate/blob/main/SD-WAN.png?raw=true" alt="LABS">
+Laboratório Prático de SD-WAN com FortiGate
+Implementação de um ambiente de laboratório utilizando FortiGate integrado a dois provedores de Internet (CLARO e VIVO), com configuração de múltiplos links WAN e estudo comparativo entre ECMP e SD-WAN. O laboratório abordou seleção dinâmica de caminhos, monitoramento de qualidade dos links, disponibilidade, balanceamento de tráfego e failover entre diferentes conexões de Internet.
+
+Tecnologias/conceitos envolvidos
+FortiGate / Fortinet
+SD-WAN
+ECMP
+Múltiplos links WAN
+Failover
+Balanceamento de tráfego
+Monitoramento de latência
+Jitter
+Perda de pacotes
+Políticas de SD-WAN
+Roteamento
+Dois provedores de Internet (CLARO e VIVO)
+
 Com esse laboratório foi possível praticar conceitos fundamentais de redes, como criação e configuração de VLANs, segmentação de tráfego, configuração de portas access, integração entre switch e firewall, roteamento entre VLANs e organização de uma infraestrutura de rede baseada em boas práticas utilizadas em ambientes corporativos. Além disso, a implementação de um servidor Zabbix na VLAN de gerenciamento permitiu compreender a importância do monitoramento contínuo dos dispositivos e serviços da rede, tornando o ambiente mais próximo de um cenário real de produção.
