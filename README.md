@@ -4,6 +4,8 @@ O **Fortinet FortiGate Firewall** é um dispositivo de segurança de rede de pr�
 
 
 # LABS 
+
+
 <img src="https://github.com/RAFAELSILVASALES/FortiGate/blob/main/VLAN.png?raw=true" alt="LABS">
 
 
