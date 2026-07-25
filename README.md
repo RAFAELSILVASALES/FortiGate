@@ -41,3 +41,9 @@ Roteamento
 Dois provedores de Internet (CLARO e VIVO)
 
 Com esse laboratório foi possível praticar conceitos fundamentais de redes, como criação e configuração de VLANs, segmentação de tráfego, configuração de portas access, integração entre switch e firewall, roteamento entre VLANs e organização de uma infraestrutura de rede baseada em boas práticas utilizadas em ambientes corporativos. Além disso, a implementação de um servidor Zabbix na VLAN de gerenciamento permitiu compreender a importância do monitoramento contínuo dos dispositivos e serviços da rede, tornando o ambiente mais próximo de um cenário real de produção.
+
+
+#----------------------------------------------------------------------------------------------------------------#
+<img src="https://github.com/RAFAELSILVASALES/FortiGate/blob/main/Police.png?raw=true" alt="LABS">
+
+Laboratório de SD-WAN com FortiGate e múltiplos provedores: Implementação de uma topologia com dois FortiGate e dois provedores de Internet (CLARO e VIVO), configurando políticas de SD-WAN para direcionamento inteligente do tráfego. Foi realizada a definição de regras para que o tráfego originado pelos servidores utilizasse preferencialmente o link da VIVO, explorando conceitos de seleção de caminho, roteamento baseado em políticas e utilização de múltiplos links WAN
