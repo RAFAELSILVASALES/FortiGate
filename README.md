@@ -46,4 +46,9 @@ Com esse laboratório foi possível praticar conceitos fundamentais de redes, co
 #----------------------------------------------------------------------------------------------------------------#
 <img src="https://github.com/RAFAELSILVASALES/FortiGate/blob/main/Police.png?raw=true" alt="LABS">
 
-Laboratório de SD-WAN com FortiGate e múltiplos provedores: Implementação de uma topologia com dois FortiGate e dois provedores de Internet (CLARO e VIVO), configurando políticas de SD-WAN para direcionamento inteligente do tráfego. Foi realizada a definição de regras para que o tráfego originado pelos servidores utilizasse preferencialmente o link da VIVO, explorando conceitos de seleção de caminho, roteamento baseado em políticas e utilização de múltiplos links WAN
+Laboratório de SD-WAN com FortiGate e múltiplos provedores: Implementação de uma topologia com dois FortiGate e dois provedores de Internet (CLARO e VIVO), configurando políticas de SD-WAN para direcionamento inteligente do tráfego. Foi realizada a definição de regras para que o tráfego originado pelos servidores utilizasse preferencialmente o link da VIVO, explorando conceitos de seleção de caminho, roteamento baseado em políticas e utilização de múltiplos links WAN.
+
+#----------------------------------------------------------------------------------------------------------------------------#
+
+<img src="https://github.com/RAFAELSILVASALES/FortiGate/blob/main/VPN.png?raw=true" alt="LABS">
+Laboratório de VPN Site-to-Site com FortiGate: Configuração de uma VPN Site-to-Site utilizando FortiGate para estabelecer uma comunicação segura entre duas redes distintas através de um enlace, permitindo a conectividade entre os dispositivos das redes locais dos dois sites.
